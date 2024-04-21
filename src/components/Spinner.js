@@ -6,7 +6,7 @@ function Spinner() {
        <div className='flex flex-col items-center space-y-2'>
        <div className="spinner">
        </div>
-       <p className=' text-blue-950 text-lg font-semibold'>Loading...</p>
+       <p className='text-lg font-semibold  text-blue-950'>Loading...</p>
       
 </div>
  
